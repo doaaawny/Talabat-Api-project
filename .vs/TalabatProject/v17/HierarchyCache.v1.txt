@@ -1,0 +1,334 @@
+﻿++Solution 'TalabatProject' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:TalabatProject.sln
+++Talabat.Core
+i:{00000000-0000-0000-0000-000000000000}:Talabat.Core
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\bin\debug\net6.0\talabat.core.dll
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\talabat.core.csproj
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\talabat.core.csproj
+++Dependencies
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:>533
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:>534
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:>535
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:>731
+++Analyzers
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:analyzers
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:analyzers
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:analyzers
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:analyzers
+++Frameworks
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:frameworks
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:frameworks
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:frameworks
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:frameworks
+++Packages
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:packages
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:packages
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:packages
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:packages
+++Entities
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\
+++Identity
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\identity\
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\
+++OrderAggregation
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\
+++Address.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\address.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\identity\address.cs
+++DeliveryMethod.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\deliverymethod.cs
+++Order.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\order.cs
+++OrderItem.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\orderitem.cs
+++OrderStatus.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\orderstatus.cs
+++ProductItemOrder.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\orderaggregation\productitemorder.cs
+++BaseEntity.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\baseentity.cs
+++BasketItem.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\basketitem.cs
+++CustomerBasket.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\customerbasket.cs
+++Product.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\product.cs
+++ProductBrand.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\productbrand.cs
+++ProductType.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\producttype.cs
+++Repositories
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\repositories\
+++IBasketRepository.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\repositories\ibasketrepository.cs
+++IGenericRepository.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\repositories\igenericrepository.cs
+++Services
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\services\
+++Specifications
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\specifications\
+++IUnitOfWork.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\iunitofwork.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:c:\users\a\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.23\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\users\a\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.23\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:c:\users\a\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.23\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\users\a\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.23\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:c:\users\a\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:c:\users\a\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\microsoft.netcore.app
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.service\microsoft.netcore.app
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\microsoft.netcore.app
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.23)
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:>767
+++StackExchange.Redis (2.6.122)
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:>768
+++AppUser.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\entities\identity\appuser.cs
+++IOrderService.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\services\iorderservice.cs
+++ITokenService.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\services\itokenservice.cs
+++BaseSpecifications.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\specifications\basespecifications.cs
+++ISpecifications.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\specifications\ispecifications.cs
+++ProdcutWithFilterationForCountAsync.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\specifications\prodcutwithfilterationforcountasync.cs
+++ProductSpecParams.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\specifications\productspecparams.cs
+++ProductWithBrandAndTypeSpecifications.cs
+i:{b246b39b-286d-4b0e-9f8e-9f57c934a931}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.core\specifications\productwithbrandandtypespecifications.cs
+++Talabat.Service
+i:{00000000-0000-0000-0000-000000000000}:Talabat.Service
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.service\talabat.service.csproj
+++Class1.cs
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.service\class1.cs
+++OrderService.cs
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.service\orderservice.cs
+++TokenService.cs
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.service\tokenservice.cs
+++Projects
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:projects
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:projects
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:projects
+++Microsoft.AspNetCore.App.Analyzers
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.23)
+i:{7bdb9939-7c65-4c0a-829e-ce2d65b4146f}:>780
+++Talabat.Repository
+i:{00000000-0000-0000-0000-000000000000}:Talabat.Repository
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\talabat.repository.csproj
+++Data
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\
+++Configrations
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\
+++DeliverMethodConfig.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\delivermethodconfig.cs
+++OrderConfig.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\orderconfig.cs
+++OrderItemConfig.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\orderitemconfig.cs
+++ProductBrandConfig.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\productbrandconfig.cs
+++ProductConfig.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\productconfig.cs
+++ProductTypeConfig.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\configrations\producttypeconfig.cs
+++DataSeed
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\dataseed\
+++Migraions
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\migraions\
+++StoreContext.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\storecontext.cs
+++StoreContextSeed.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\storecontextseed.cs
+++Basketepository.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\basketepository.cs
+++GenericRepository.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\genericrepository.cs
+++SpecificationsEvaluator.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\specificationsevaluator.cs
+++UnitOfWork.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\unitofwork.cs
+++brands.json
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\dataseed\brands.json
+++delivery.json
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\dataseed\delivery.json
+++products.json
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\dataseed\products.json
+++types.json
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\dataseed\types.json
+++20231021082002_InitialCreate.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\migraions\20231021082002_initialcreate.cs
+++20231108091246_OrderEntities.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\migraions\20231108091246_orderentities.cs
+++StoreContextModelSnapshot.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\migraions\storecontextmodelsnapshot.cs
+++Migrations
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\migrations\
+++AppIdentityDbContext.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\appidentitydbcontext.cs
+++AppIdentityDbContextSeed.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\appidentitydbcontextseed.cs
+++Microsoft.EntityFrameworkCore (6.0.23)
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:>757
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.23)
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:>758
+++20231021082002_InitialCreate.Designer.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\migraions\20231021082002_initialcreate.designer.cs
+++20231108091246_OrderEntities.Designer.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\data\migraions\20231108091246_orderentities.designer.cs
+++20231101113116_IdentityIntialCreate.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\migrations\20231101113116_identityintialcreate.cs
+++AppIdentityDbContextModelSnapshot.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\migrations\appidentitydbcontextmodelsnapshot.cs
+++20231101113116_IdentityIntialCreate.Designer.cs
+i:{f506194b-7d13-4d82-aa93-289f40a1664c}:f:\aml_webdevelopment\backend\api\talabatproject\talabat.repository\identity\migrations\20231101113116_identityintialcreate.designer.cs
+++Talabat.APIs
+i:{00000000-0000-0000-0000-000000000000}:Talabat.APIs
+++Connected Services 
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:>732
+++Properties
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\properties\
+++wwwroot
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\
+++Controllers
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\
+++DTO
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\
+++Errors
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\errors\
+++Exstentions
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\exstentions\
+++Helpers
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\helpers\
+++MiddleWares
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\middlewares\
+++appsettings.json
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\appsettings.json
+++Program.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\program.cs
+++WeatherForecast.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\weatherforecast.cs
+++No service dependencies discovered
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:>733
+++launchSettings.json
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\properties\launchsettings.json
+++Images
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\
+++AccountsController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\accountscontroller.cs
+++APIBaseController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\apibasecontroller.cs
+++BasketController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\basketcontroller.cs
+++BuggyController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\buggycontroller.cs
+++ErrorsController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\errorscontroller.cs
+++ProductController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\productcontroller.cs
+++WeatherForecastController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\weatherforecastcontroller.cs
+++AddressDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\addressdto.cs
+++BasketItemDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\basketitemdto.cs
+++CustomerBasketDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\customerbasketdto.cs
+++LoginDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\logindto.cs
+++ProductToReturnDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\producttoreturndto.cs
+++RegisterDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\registerdto.cs
+++UserDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\userdto.cs
+++ApiExceptionsResponse.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\errors\apiexceptionsresponse.cs
+++ApiResponse.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\errors\apiresponse.cs
+++ApiValidationErrorResponse.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\errors\apivalidationerrorresponse.cs
+++ApplicationServiceExtention.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\exstentions\applicationserviceextention.cs
+++IdentityServiceExtention.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\exstentions\identityserviceextention.cs
+++UserManagerExtention.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\exstentions\usermanagerextention.cs
+++MappingProfiles.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\helpers\mappingprofiles.cs
+++Pagination.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\helpers\pagination.cs
+++ProductPictureUrlResolver.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\helpers\productpictureurlresolver.cs
+++ExceptionsMiddleWare.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\middlewares\exceptionsmiddleware.cs
+++appsettings.Development.json
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:>744
+++Microsoft.EntityFrameworkCore.Tools (6.0.23)
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:>746
+++Swashbuckle.AspNetCore (6.2.3)
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:>745
+++Products
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\
+++hat-core1.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\hat-core1.png
+++hat-react2.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\hat-react2.png
+++sb-ang1.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\sb-ang1.png
+++sb-ang2.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\sb-ang2.png
+++sb-core1.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\sb-core1.png
+++sb-core2.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\sb-core2.png
+++sb-react1.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\sb-react1.png
+++sb-ts1.png
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\wwwroot\images\products\sb-ts1.png
+++xdbb4fmg.g1z~
+++OrdersController.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\controllers\orderscontroller.cs
+++OrderDto.cs
+i:{eb73ea22-b54f-49ce-a449-97ee7efe8fab}:f:\aml_webdevelopment\backend\api\talabatproject\talabatapis\dto\orderdto.cs

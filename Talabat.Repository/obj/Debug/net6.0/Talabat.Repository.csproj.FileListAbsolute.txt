@@ -1,0 +1,15 @@
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+F:\Aml_webDevelopment\BackEnd\API\TalabatProject\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
